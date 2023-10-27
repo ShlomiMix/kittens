@@ -89,7 +89,7 @@ h1 {
     grid-column-end: 13;
     grid-row-start: 3;
     grid-row-end: 5;
-    font-size: 5vh;
+    font-size: 3vh;
 }
 
 form > div {
@@ -104,8 +104,9 @@ input {
 }
 
 button {
-    width: 80px;
-    
+    width: 60px;
+    font-size: 3vh;
+    margin-top: 5px;
 }
 
 
